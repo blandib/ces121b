@@ -38,16 +38,22 @@ imagesElement.setAttribute('alt', `Profile image of ${imageName}`);
 
 /* Step 5 - Array */
 const  favoriteFoods = ["Bobotie","Biltong and Droëwors","Boerewors","Pondu","Chikwanga","Pizza"];
-foodElement.innerHTML = favoriteFoods.join(", ");
+//foodElement.innerHTML = favoriteFoods.join(", ");
 const favoriteFood = "Liboke De Poisson";
 const newFood = "Moambe Chicken";
 favoriteFoods.push(newFood);
-foodElement.innerHTML += `<br>${favoriteFoods}`;
+foodElement.innerHTML += `${favoriteFoods.join("<br>")}`;
 favoriteFoods.shift();
 favoriteFoods.splice(",");
-foodElement.innerHTML += `<br>${favoriteFoods}`;
+const favfoods = [];
+for(let i=1; favoriteFoods[i] != null && favoriteFoods[i] !=""; i++){
+    favfoods.push(favoriteFoods[i]);
+}
+
+
+foodElement.innerHTML += `${favoriteFoods.join("<br>")}`;
 favoriteFoods.pop();
-foodElement.innerHTML += `<br>${favoriteFoods}`;
+foodElement.innerHTML += `${favoriteFoods.join("<br>")}`;
 
 
 

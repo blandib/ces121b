@@ -37,7 +37,7 @@ imagesElement.setAttribute('alt', `Profile image of ${imageName}`);
 
 
 /* Step 5 - Array */
-const  favoriteFoods = ["Bobotie","Biltong and Droëwors","Boerewors","Pondu","Chikwanga","Pizza"];
+const  favoriteFoods = ["Chakalaka and Rice","Biltong and Droëwors","Boerewors","Pondu","Chikwanga","Pizza"];
 //foodElement.innerHTML = favoriteFoods.join(", ");
 const favoriteFood = "Liboke De Poisson";
 const newFood = "Moambe Chicken";

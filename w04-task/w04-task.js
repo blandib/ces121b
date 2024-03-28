@@ -14,7 +14,7 @@ let myprofile = {
     ],
     hobbies: [
         "Studing Web development",
-        "Waching YouTube videos",
+        "Watching YouTube videos",
         "Listening to music",
         "Coding",
         "Learning"

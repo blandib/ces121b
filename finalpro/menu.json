@@ -1,0 +1,254 @@
+[
+    {
+        "dishName": "Chicken Fajitas",
+        "imageUrl": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Flavorful-Chicken-Fajitas_EXPS_GHBZ18_12540_B08_15_8b.jpg",
+        "dishPrice": "R 35.99",
+        "daytime": "Lunch"
+    },
+    {
+        "dishName": "Chicken Shrimp Fajita Nachos ",
+        "imageUrl": "https://th.bing.com/th/id/OIP.QUoErqaurnRHTETu1PiKEgAAAA?rs=1&pid=ImgDetMain",
+        "dishPrice": "R60.99",
+        "daytime" : "Dinner"
+    },
+    {
+        "dishName": "Grilled Steak Nachos",
+        "imageUrl": "https://th.bing.com/th/id/R.9da716ba1dfb7114711a5142f187129e?rik=vUSUm11ZXp640g&riu=http%3a%2f%2ftastefullyfrugal.org%2fwp-content%2fuploads%2f2018%2f08%2fGrilled-Steak-Nachos-2-of-5.jpg&ehk=VcBKbzU6mMcC0WO99E92FZzJXrjZ3JEuDCi1m6x305A%3d&risl=&pid=ImgRaw&r=0",
+        "dishPrice": "R 50.60",
+        "daytime" :"Dinner"
+    },
+    {
+        "dishName": "Bistecca Piccola ",
+        "imageUrl": "https://lafiammaitalian.com/wp-content/uploads/2021/01/lafiammaitaliankitchen_03grilled_bisteccapiccola.jpg",
+        "dishPrice": "R 100.99",
+        "daytime" :"Lunch"
+    },
+    {
+        "dishName":"Rosemary Roast Leg of Lamb",
+        "imageUrl": "https://www.eatingwell.com/thmb/fkAbrTHcYVdC39FMKqBbpBwVihQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5689536-5d382339d9554a93a67167e30075ee02.jpg",
+        "dishPrice": "R 203.50",
+        "daytime" :"Dinner"
+    },
+    {
+        "dishName": "T-Bone Steak with Garlic Butter",
+        "imageUrl" :"https://th.bing.com/th/id/R.8c6790d64d7843b7b794db647634ccca?rik=lYzYGDBoCmFdaw&riu=http%3a%2f%2fcymsteak.weebly.com%2fuploads%2f5%2f2%2f5%2f7%2f52572973%2fs341154043949056611_p6_i6_w640.jpeg&ehk=rPMR472yuzmveEskmyvzx%2fY1ArDjLvUq7WD7xnFh7PU%3d&risl=&pid=ImgRaw&r=0",
+        "dishPrice": "R 60.55",
+        "daytime":"Dinner"
+    },
+    {
+        "dishName": "BAKED Buffalo Chicken Wings",
+        "imageUrl": "https://valentinascorner.com/wp-content/uploads/2020/02/Baked-Chicken-Wings-2.jpg",
+        "dishPrice": "R40.78",
+        "daytime":"Dinner"
+    },
+    {
+        "dishName": "Grilled Buffalo Chicken Wings (with Crispy Skin)",
+        "imageUrl": "https://www.vindulge.com/wp-content/uploads/2021/09/Grilled-Chicken-Wings.jpg",
+        "dishPrice": "R 65.90",
+        "daytime":"Dinner"
+    },
+    {
+        "dishName": "Vegan Nachos - Cilantro and Citronella",
+        "imageUrl": "https://www.cilantroandcitronella.com/wp-content/uploads/2020/07/vegan-nachos-photo-1.jpg",
+        "dishPrice": "R 35.45",
+        "daytime":"Lunch"
+    },
+    {
+        "dishName": "Skillet Beef Nachos",
+        "imageUrl": "https://www.babaganosh.org/wp-content/uploads/2021/01/skillet-beef-nachos-22-640x640.jpg",
+        "dishPrice": "R 80.88",
+        "daytime":"Dinner"
+    },
+    {
+        "dishName": "Black Bean Pineapple Salsa ",
+        "imageUrl": "https://www.babaganosh.org/wp-content/uploads/2021/01/black-bean-pineapple-salsa-05-683x1024.jpg.webp",
+        "dishPrice": "R 76.60",
+        "daytime":"Lunch"
+    },
+    {
+        "dishName": "Guacamole e Nachos",
+        "imageUrl": "https://th.bing.com/th/id/R.bfea0843c0be98b363aa8181de3c8e06?rik=bujdZaD2ZifQmA&riu=http%3a%2f%2fwww.supermercadohigas.com.br%2fblog%2fcapa%2fcapa_000213%2fguacamole-dip-nachos-plate-isolated-white-background-37190887.jpg&ehk=tODKfkWUCP%2fVzefT67%2bUM4R0iDZZS1j%2fMxusD%2f%2bpIcs%3d&risl=&pid=ImgRaw&r=0",
+        "dishPrice": "R 50.99",
+        "daytime":"Lunch"
+    },
+    {
+        "dishName": "Taco Salad ",
+        "imageUrl": "https://www.cookingclassy.com/wp-content/uploads/2019/02/taco-salad-13.jpg",
+        "dishPrice": "R 70. 99"  ,
+        "daytime":"Lunch"
+      },
+      {
+        "dishName": "Beef Taco Salad with Chipotle Ranch",
+        "imageUrl": "https://cookingformysoul.com/wp-content/uploads/2019/04/beef-taco-salad-683x1024.jpg",
+        "dishPrice": "R 89.80",
+        "daytime":"Dinner"
+
+      },
+      {
+        "dishName": "Black Bean Taco Salad with Creamy Salsa",
+        "imageUrl": "https://peasandcrayons.com/wp-content/uploads/2020/08/black-bean-taco-salad-recipe-6.jpg",
+        "dishPrice": "R 40.66",
+        "daytime":"Lunch"
+      },
+      {
+        "dishName": " Banana Muffins",
+        "imageUrl": "https://cookieandkate.com/images/2015/04/healthy-banana-muffins-recipe-1.jpg",
+        "dishPrice": "R 25.95",
+        "daytime":"breakfast"
+      },
+      {
+        "dishName": "chocolate chips pancake",
+        "imageUrl": "https://www.allthingsmamma.com/wp-content/uploads/2022/03/Chocolate-Chip-Pancakes-Hero-1-scaled.jpg",
+        "dishPrice": "R 56.99",
+        "daytime":"breakfast"
+
+      },
+      {
+        "dishName": "Blueberry, Banana, and Strawberry Chocolate Waffle",
+        "imageUrl": "https://i.pinimg.com/originals/d9/cd/ed/d9cdedc603dbd51ebfb84072f7658ee3.jpg",
+        "dishPrice":"R 45.68",
+        "daytime":"breakfast"
+      },
+      {
+        "dishName": "Reuben Stuffed Waffle",
+        "imageUrl": "https://www.gopresto.com/i/1588626044236/n/uploads/Reuben_Stuffed_Waffle.jpg",
+        "dishPrice": "R 25.99",
+        "daytime":"breakfast"
+      },
+      {
+        "dishName": "Strawberry Crunch Cheesecake Cones",
+        "imageUrl": "https://sweetpeaskitchen.com/wp-content/uploads/2023/03/Strawberry-Crunch-Cheesecake-Cones-3-200x300.jpg",
+        "dishPrice": "R 45. 70",
+        "daytime":"breakfast"
+      },
+      {
+        "dishName": " Strawberry Hand Pies",
+        "imageUrl": "https://i0.wp.com/ohclary.com/wp-content/uploads/strawberry-tuernovers-10-1135x1500-1.jpg?resize=500%2C661&ssl=1",
+        "dishPrice": "R 37.90",
+        "daytime":"breakfast"
+      },
+      {
+        "dishName": "Cram-Decker",
+        "imageUrl": "https://zambia.debonairspizza.africa/geolocate/images/zambia/menu/zambia-meaty-cram-decker.jpg",
+        "dishPrice": "R 178.99",
+        "daytime":"Lunch"
+      },
+      {
+        "dishName": "Triple-Decker",
+        "imageUrl": "https://th.bing.com/th/id/R.148c554d0a3ad64b7f94379838e2201b?rik=sUx7yxaaGWG%2fgw&pid=ImgRaw&r=0&sres=1&sresct=1",
+        "dishPrice": "R 250.90",
+        "daytime":"Dinner"
+      },
+      {
+        "dishName":"Crammed-Crust",
+        "imageUrl": "https://th.bing.com/th/id/OIP._Ggs5cXv4rzf9JsOPpJk6gHaHa?rs=1&pid=ImgDetMain",
+        "dishPrice": "R 149.90",
+        "daytime":"Lunch"
+
+      },
+      {
+        "dishName": " Bobotie with Yellow Rice",
+        "imageUrl": "https://i.pinimg.com/originals/1c/ca/0e/1cca0e0d74433ed002eca97154819ebb.jpg",
+        "dishPrice": "R 50.33",
+        "daytime":"Dinner"
+      },
+      {
+        "dishName": "Air Fryer Bobotie",
+        "imageUrl": "https://uk.instantbrands.com/wp-content/uploads/2023/04/2-1.jpg",
+        "dishPrice": "R 45. 70",
+        "daytime":"Dinner"
+      },
+      {
+        "dishName": "Biltong and Droëwors (Dried Sausage)",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0372/5673/products/Biltong_SlicedBiltong_2880x2304-2_873e8c08-6832-4a46-a82f-5088790c4141_2400x1592.jpg?v=1623450475",
+        "dishPrice" : "R 99.09",
+        "daytime":"Lunch"
+      },
+      {
+        "dishName": "Potjiekos",
+        "imageUrl": "https://th.bing.com/th/id/R.01fad6f05a552055b74e96e9a4ea5de4?rik=D5oS2Q8BiVbjwA&riu=http%3a%2f%2fworlds-recipes.online%2fwp-content%2fuploads%2f2019%2f05%2fFB_IMG_1557527223214-1.jpg&ehk=GXuNf7B%2f%2bRZuS5dHnOX0Kh01xXhhDk6LKRiivr%2b101c%3d&risl=&pid=ImgRaw&r=0",
+        "dishPrice": "R 120.40",
+        "daytime":"Lunch"
+      },
+      {
+        "dishName": "Biryani",
+        "imageUrl": "https://1.bp.blogspot.com/-sxvFHMrLgrI/XY-T7xKtbZI/AAAAAAAASjw/mX3Ineip_awraDf7mAvdOD8hfuvsowxnwCLcBGAsYHQ/s1600/Mutton-Biryani-Recipe.jpg",
+        "dishPrice": "R 40.66",
+        "daytime":"Dinner"
+      },
+      {
+        "dishName": " Spicy Boerewors",
+        "imageUrl": "https://th.bing.com/th/id/R.fda8a7779f856b10fd6fe2d779333fd0?rik=7f6qnsoFO5gqIA&riu=http%3a%2f%2fbuzzsouthafrica.com%2fwp-content%2fuploads%2fBoerewors-Serve.jpg&ehk=BJ%2fNoz0llCviS1k4xWmXuWRINLroiqw41rsRGR8vopo%3d&risl=&pid=ImgRaw&r=0",
+        "dishPrice": "R 40.66",
+        "daytime":"Lunch"
+    },
+    {
+        "dishName": "Sosaties",
+        "imageUrl": "https://th.bing.com/th/id/OIP.x64QD37CWru9TSSUQkkdKwHaKp?w=1069&h=1536&rs=1&pid=ImgDetMain",
+        "dishPrice": "R 80.90",
+        "daytime":"Dinner"
+    },
+    {
+        "dishName": "Koeksisters",
+        "imageUrl": "https://netstorage-briefly.akamaized.net/images/30e55949bc124cda.jpg?imwidth=600",
+        "dishPrice": "R 15.44",
+        "daytime":"breakfast"
+    },
+    {
+        "dishName": "Malva pudding",
+        "imageUrl": "https://th.bing.com/th/id/R.bc60ed06deacc38b2322513e13ec195a?rik=qoOArHwk0SCVUg&riu=http%3a%2f%2fwww.my-easy-cooking.com%2fwp-content%2fuploads%2f2008%2f03%2fMalva-Pudding.jpg&ehk=VGqSmltIWh%2b31OR4aPHqgD2%2f9E9ZQnG6sN09snTw3zE%3d&risl=&pid=ImgRaw&r=0",
+        "dishPrice": "R 40.77",
+        "daytime":"Lunch"
+    },
+    {
+      "dishName":"Chocolate Milkshake" ,
+      "imageUrl":"https://www.sugarandsoul.co/wp-content/uploads/2021/04/chocolate-milkshake-8.jpg",
+      "dishPrice":"R 15.66",
+      "daytime":"snack"
+    },
+    {
+        "dishName":" Strawberry Milkshake",
+        "imageUrl":"https://www.oliviascuisine.com/wp-content/uploads/2021/07/strawberry-milkshake-pin.jpg",
+        "dishPrice":"R 20.20",
+        "daytime":"snack"
+    },
+    {
+       "dishName":"Oreo Milkshake" ,
+       "imageUrl":"https://bakewithshivesh.com/wp-content/uploads/2021/05/IMG_4013-scaled.jpg",
+       "dishPrice":"R 17 .99",
+        "daytime":"snack"
+    },
+    {
+     "dishName":"Donuts",
+     "imageUrl":"https://www.2foodtrippers.com/wp-content/uploads/2020/11/Donuts-at-Love-Peace-and-Little-Donuts-in-Pittsburgh-735x490.jpg",
+     "dishPrice":"R 5.10",
+     "daytime":"snack" 
+    }, 
+    {
+      "dishName":"Cookies",
+      "imageUrl":"https://s-i.huffpost.com/gen/1264627/images/o-BEST-COOKIE-RECIPE-facebook.jpg",
+      "dishPrice":"R 11.99",
+      "daytime":"snack"
+    },
+    {
+        "dishName":"Mini pies ",
+        "imageUrl":"https://whattheredheadsaid.com/wp-content/uploads/2013/12/IMG_1970-e1449357765530.jpg",
+        "dishPrice":"R 15.66",
+        "daytime":"snack"
+    },
+    {
+      "dishName":"Marzipan",
+      "imageUrl":"https://th.bing.com/th/id/OIP.Yy7yVHdmvGtKR-ZYqsQjtwHaEV?rs=1&pid=ImgDetMain",
+      "dishPrice":"R 25.85",
+      "daytime":"snack"
+
+    },
+    {
+        "dishName":" Carame",
+        "imageUrl":"https://i.pinimg.com/originals/8b/21/50/8b21507a788eb500effe3b2dff4b5141.jpg",
+        "dishPrice":"R 20.50",
+        "daytime":"snack"
+    }
+   
+
+]

@@ -112,13 +112,15 @@ body {
 }
 img {
   
-  height: 15rem;
+  height: 20rem;
   box-shadow: var(--green-dark) 10px 10px 5px;
   border-radius: 20px;
+  width: 350px;
+  
   
 }
 
-footer #year {
+footer {
   
     padding: 0.75rem 0;
     text-align: center;
@@ -131,7 +133,7 @@ section-center {
 }
 
 
-nav .title {
+nav  {
   
   text-align: center;
   margin-top: 0.4px;

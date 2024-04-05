@@ -112,9 +112,11 @@ body {
 }
 img {
   
-  height: 15rem;
+  height: 20rem;
   box-shadow: var(--green-dark) 10px 10px 5px;
   border-radius: 20px;
+  width: 350px;
+  
   
 }
 

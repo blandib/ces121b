@@ -70,7 +70,7 @@ myprofile.hobbies.forEach(hobbies => {
 
 myprofile.placesLived.forEach(place => {
     let dt = document.createElement("dt");
-    dt.textContent = place.place; // Use the 'place' property from the object
+    dt.textContent = place.length; // Use the 'place' property from the object
     document.querySelector("#places-lived").appendChild(dt); // Append <dt> to the <dl>
 
     let dd = document.createElement("dd");

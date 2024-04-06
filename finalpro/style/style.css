@@ -122,9 +122,14 @@ img {
 
 footer {
   
-    padding: 0.75rem 0;
+    
+    background-color: #444;
+    color: white;
+    padding: 15px;
     text-align: center;
-  
+    width: 100%;
+    position: fixed;
+    bottom: 0;
 }
 section-center {
   display: grid;
@@ -133,14 +138,55 @@ section-center {
 }
 
 
-nav  {
-  
-  text-align: center;
-  margin-top: 0.4px;
-  bottom: 106px;
-  
+nav {
+  background-color: black;
+  width: 100%;
+  position: fixed;
+  top: 0;
 }
 
+nav ul {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: -moz-fit-content;
+  max-width: fit-content;
+  margin: 0 auto;
+}
+
+nav ul li {
+  flex: 1 1 auto;
+}
+
+nav ul li:first-child {
+  display: block;
+  font-size: 2rem;
+}
+
+nav ul li:first-child a {
+  padding: 1px 10px;
+}
+
+nav ul li {
+  display: none;
+  list-style: none;
+  margin: 10px;
+}
+
+nav ul li a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+  font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+nav ul li a:hover {
+  background-color: #efefef;
+  color: black;
+}
 
 @media screen and (min-width: 768px) {
   .menu {
@@ -171,3 +217,21 @@ nav  {
     grid-template-columns: repeat(3, 1fr);
   }
 }
+@media only screen and (min-width: 32.5em) {
+  nav ul {
+      flex-direction: row;
+  }
+
+  nav ul li:first-child {
+      display: none;
+  }
+
+  nav ul li {
+      display: block;
+  }
+  section {
+    min-width: 300px;
+}
+}
+  
+
